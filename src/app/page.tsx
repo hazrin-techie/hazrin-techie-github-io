@@ -122,7 +122,7 @@ export default function App() {
         <p>Welcome to Hazrin-Techie</p>
       </CardBody>
       <CardBody>
-        <p>The website contents is still work in progress</p>
+        <p>The website content is still work in progress</p>
       </CardBody>
       <CardBody>
         <p>Please come back later</p>
